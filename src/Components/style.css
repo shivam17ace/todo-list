@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(77, 70, 70);
+}
+/* Header */
+.heading{
+    text-align: center;
+    background-color: rgb(77, 70, 70);
+    color: #fff;
+}
+.listing{
+    padding: 1rem 3rem;
+    background-color: #fff;
+}
+/* Render */
+.pos{
+text-align: center;
+margin-top: 10rem;
+background-color: rgba(89, 173, 152, 0.74);
+width: 40%;
+margin-left: 25rem;
+}
+
